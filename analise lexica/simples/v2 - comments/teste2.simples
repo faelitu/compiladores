@@ -1,0 +1,10 @@
+programa teste
+	inteiro A B // este eh um comentario de linha
+inicio
+	/* variavel A
+	   recebe o valor 5 */
+	A <- 5
+	leia B
+	B <- A * B
+	escreva B
+fimprograma
