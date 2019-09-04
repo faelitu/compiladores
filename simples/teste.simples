@@ -1,0 +1,8 @@
+programa teste
+	inteiro A B
+inicio
+	A <- 5
+	leia B
+	B <- A * B
+	escreva B
+fimprograma
